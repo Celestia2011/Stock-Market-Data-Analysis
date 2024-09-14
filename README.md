@@ -1,4 +1,4 @@
-#📈 Stock Market Data Analysis#
+📈 Stock Market Data Analysis
 
 📝 Project Overview
 
@@ -40,8 +40,10 @@ markdown
           22       1.00      1.00      1.00     11946
 
     accuracy                           1.00     55951
-   macro avg       1.00      1.00      1.00     55951
-weighted avg       1.00      1.00      1.00     55951
+    macro avg       1.00      1.00      1.00     55951
+    weighted avg       1.00      1.00      1.00     55951
+
+   
 
 ✅ Accuracy:
 

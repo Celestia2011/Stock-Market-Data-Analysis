@@ -1,4 +1,5 @@
-📈 Stock Market Data Analysis
+#📈 Stock Market Data Analysis#
+
 📝 Project Overview
 
 This project performs in-depth analysis of stock market data from various well-known companies such as Netflix, Amazon, Apple, Samsung, and others. The dataset includes critical stock information such as Open, High, Low, Close prices, Volume, Dividends, Stock Splits, and metadata related to each company.
@@ -58,7 +59,7 @@ weighted avg       1.00      1.00      1.00     55951
 
     bash
 
-git clone https://github.com/yourusername/stock-market-analysis.git
+git clone https://github.com/Celestia2011/stock-market-analysis.git
 
 Install the required libraries:
 
